@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "barby"
 
   s.has_rdoc          = true
-  s.extra_rdoc_files  = ["README"]
+  s.extra_rdoc_files  = ["README.md"]
 
   s.files             = Dir['CHANGELOG', 'README', 'LICENSE', 'lib/**/*', 'vendor/**/*', 'bin/*']
   #s.executables       = ['barby'] #WIP, doesn't really work that well
